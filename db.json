@@ -1,5 +1,5 @@
 {
-  "products": [
+  "post": [
     {
       "id": 1,
       "name": "Red T-Shirt",
@@ -97,7 +97,8 @@
       "image": "/images/12.jpg"
     }
   ],
-  "comments": [{
+  "comments": [
+    {
       "id": 1,
       "username": "john_smith",
       "text": "Great product, I would definitely recommend it to others!",
@@ -168,7 +169,8 @@
       "date": "2022-10-15"
     }
   ],
-  "bai-viet": [{
+  "bai-viet": [
+    {
       "id": 1,
       "title": "10 Ways to Boost Your Productivity",
       "author": "Sarah Johnson",
