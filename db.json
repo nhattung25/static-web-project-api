@@ -1,209 +1,57 @@
 {
-  "post": [
+  "admin-post": [
     {
       "id": 1,
-      "name": "Red T-Shirt",
-      "description": "A comfortable and stylish red t-shirt.",
-      "price": 19.99,
-      "quantity": 10,
-      "image": "/images/1.jpg"
+      "title": "Ngày quốc tế đưa mèo đi khám bệnh.",
+      "author": "cat_paw",
+      "date": "Ngày 1 tháng 3, năm 2022",
+      "content": "Ngày 22 tháng 8 đã được chỉ định là Ngày quốc gia đưa mèo của bạn đến bác sĩ thú y và mặc dù đây có thể không phải là “ngày lễ” yêu thích của mèo cưng, nhưng đó là một ngày quan trọng được thiết kế để nâng cao nhận thức rằng mèo cần được kiểm tra sức khỏe thường xuyên. 83% số mèo được đưa đến bác sĩ thú y trong năm đầu tiên sau khi chúng được nhận nuôi, nhưng hơn một nửa trong số chúng không bao giờ quay lại lần khám sức khỏe tiếp theo. Cho rằng mèo già đi nhanh hơn con người và là bậc thầy trong việc che giấu bệnh tật, những thống kê này rất đáng lo ngại.Nếu con mèo của bạn đã quá hạn kiểm tra, hôm nay là ngày hoàn hảo để đặt lịch hẹn. Hiệp hội những người hành nghề chăm sóc mèo của Hoa Kỳ đang cung cấp nhiều tài nguyên để giúp bạn chuẩn bị cho lần kiểm tra tiếp theo cho mèo của mình, từ lý do tại sao việc kiểm tra lại quan trọng đến cách giảm căng thẳng khi đi khám bác sĩ thú y cho cả mèo và bạn. Bạn có thể tìm thêm thông tin trên trang web và trang Facebook của họ.",
+      "thumbnail": "/images/1.jpg",
+      "love": "10",
+      "comment": "25",
+      "view": "30"
     },
     {
       "id": 2,
-      "name": "Blue Hoodie",
-      "description": "A warm and cozy blue hoodie for chilly days.",
-      "price": 39.99,
-      "quantity": 5,
-      "image": "/images/2.jpg"
+      "title": "Mèo nên là vật nuôi trong nhà hay ngoài trời? Ưu nhược điểm và mẹo an toàn",
+      "author": "cat_paw",
+      "date": "Ngày 2 tháng 3, năm 2022",
+      "content": "Mặc dù chúng ta có thể yêu những chú mèo của mình, nhưng nhiều người trong chúng ta cũng thừa nhận rằng việc sống chung với chúng có thể là một thử thách. Bạn không chỉ thấy thùng rác bừa bộn và bốc mùi trong nhà mà mèo còn rụng lông, cào cấu đồ đạc và đôi khi tè vào những vị trí không thích hợp. Nếu con mèo của bạn đã hình thành những thói quen xấu, có lẽ bạn đã muốn biến chúng thành thú cưng ngoài trời. Nhiều người nuôi mèo đấu tranh với việc nên nuôi mèo trong nhà hay ngoài trời. Trong cuộc sống của riêng tôi, tôi đã sở hữu hoàn toàn mèo trong nhà, mèo ngoài trời và mèo trong nhà-ngoài trời, vì vậy tôi cũng quen với tình huống khó xử này. Trong bài viết này, chúng ta sẽ xem xét các lập luận ủng hộ và phản đối việc mèo sống ngoài trời, cũng như ý kiến của các chuyên gia và nhà nghiên cứu về chủ đề này. Các chuyên gia và nhà nghiên cứu thú y đồng ý rằng việc tiếp cận ngoài trời không được kiểm soát là nguy hiểm đối với mèo và khuyến cáo nên nuôi chúng trong nhà. Chúng tôi sẽ đi sâu vào lý do đằng sau khuyến nghị này ở phần sau của bài viết này, nhưng nhiều chủ sở hữu vẫn tiếp tục thả mèo ra ngoài bất chấp rủi ro. Trong một số trường hợp, chủ sở hữu có thể lo lắng rằng việc nhốt mèo trong nhà là tàn nhẫn và ngăn cản chúng sử dụng bản năng và kỹ năng săn mồi của mình. Những người khác có thể tin rằng con mèo của họ sẽ tập thể dục nhiều hơn và dễ dàng duy trì cân nặng hợp lý hơn nếu chúng được phép ra ngoài. Một lý do phổ biến khác khiến mèo chuyển sang nuôi thú cưng ngoài trời là các vấn đề về hành vi dai dẳng như đánh dấu nước tiểu hoặc gây hấn. Đôi khi, chủ sở hữu sẽ nhận nuôi hoặc đảm nhận việc chăm sóc một con mèo đã sống ngoài trời trong nhiều năm. Ví dụ: bạn quyết định thực hiện ước mơ cả đời là sở hữu tài sản ở đất nước chỉ để thấy rằng giao dịch mua mới của bạn đi kèm với một hoặc nhiều con mèo trong chuồng. Trong những trường hợp này, chủ sở hữu có thể cảm thấy rằng con mèo ngoài trời sẽ phải vật lộn để chuyển sang cuộc sống trong nhà và quyết định không ép buộc vấn đề này.",
+      "thumbnail": "/images/1.jpg",
+      "love": "8",
+      "comment": "22",
+      "view": "34"
     },
     {
       "id": 3,
-      "name": "Leather Jacket",
-      "description": "A sleek and stylish black leather jacket.",
-      "price": 99.99,
-      "quantity": 2,
-      "image": "/images/3.jpg"
+      "title": "Tại sao con mèo của bạn mang quà cho bạn? 6 lý do phổ biến",
+      "author": "cat_paw",
+      "date": "Ngày 5 tháng 3, năm 2022",
+      "content": "Vài tháng sau khi Anya, thành viên đầu tiên của gia đình mèo bước vào cuộc sống của chúng tôi, tôi bắt đầu tìm thấy một trong những món đồ chơi yêu thích của nó trong phòng ngủ của mình mỗi sáng. Điều này có vẻ kỳ lạ đối với tôi, vì tất cả đồ chơi của cô ấy đều được để ở tầng chính trong nhà của chúng tôi, và việc mang một quả bóng đồ chơi bông lên tận cầu thang và vào phòng ngủ chắc chắn không phải là một việc dễ dàng. Là một người lần đầu tiên trở thành người giám hộ mèo sau này, tôi thấy hành vi của Anya khá tò mò cho đến khi con rể tôi kể cho tôi nghe về một con mèo mà anh ta nuôi khi còn nhỏ đã từng mang chuột và chim chết vào nhà. nhà của họ và để chúng trên bàn bếp. Tôi cũng đã xem một bản tin đưa tin về Dusty the Klepto Kitty, một người Xiêm đi giày tuyết như Anya, người đã lấy trộm hàng trăm món đồ của cư dân khu phố, bao gồm giày dép, thú nhồi bông và thậm chí cả đồ lót, rồi mang chúng về nhà cho người giám hộ của mình. Sau đó tôi nhận ra rằng hành vi của Anya không phải là duy nhất. 6 lý do phổ biến khiến mèo mang quà cho mọi người.1. Một con mèo có thể chỉ phản ứng với bản năng “bắt mồi” vốn có. Vì mèo của chúng ta bẩm sinh đã là thợ săn, nên mèo có thể hành động theo bản năng tự nhiên là giết và bắt mồi, đưa “con mồi” của mình trở lại nơi an toàn. Những người trong chúng ta nuôi mèo con chỉ ở trong nhà, như Anya, có thể thấy rằng món đồ bắt được trong ngày là đồ chơi hoặc đồ vật mà mèo của chúng ta chơi cùng - giống như cô ấy có thể chơi với con mồi trước khi bắt và giết nó. 2. Khen bạn: Một số nhà hành vi học tin rằng mèo con có thể dành cho bạn lời khen ngợi cao nhất khi nó mang về cho bạn kết quả của cuộc “săn lùng” mới nhất của nó, và món quà được mang đến vì nó yêu bạn và quan tâm đến bạn. 3. Để cung cấp: Những người khác tin rằng mèo xem con người như những thợ săn nghèo, không thể tự cung cấp thức ăn cho mình. Vì vậy, món quà chuột đồ chơi (hoặc chuột thật) là để cung cấp cho người chăm sóc con người. 4. Truyền trí tuệ của họ: Tương tự như vậy, một số người tin rằng nhiều mèo cái bị thiến (như Anya) không có con non có xu hướng tự nhiên là truyền lại sự khôn ngoan trong săn bắn của chúng. Nhiều mèo cái là người tặng quà hơn mèo đực. Vì vậy, có lẽ những hoạt động hàng đêm này có ý nghĩa như những bài học cho chúng ta, vì con mèo của chúng ta đang thực hiện vai trò tự nhiên là mẹ và giáo viên. 5. Khuyến khích: Những người khác nghĩ rằng những người tặng mèo của chúng tôi đang cố gắng khuyến khích chúng tôi đứng dậy và chơi với chúng, hoặc có thể tham gia cùng chúng trong một cuộc săn tìm kho báu khác nhau quanh nhà. 6. Lòng biết ơn. Cuối cùng, một số nhà hành vi học cho rằng việc tặng quà có thể là một nỗ lực để “cảm ơn” người chăm sóc đã cung cấp thức ăn và nhà ở cho họ.",
+      "thumbnail": "/images/1.jpg",
+      "love": "25",
+      "comment": "10",
+      "view": "34"
     },
     {
       "id": 4,
-      "name": "Denim Shorts",
-      "description": "Comfortable and stylish denim shorts for warm weather.",
-      "price": 29.99,
-      "quantity": 8,
-      "image": "/images/4.png"
-    },
-    {
-      "id": 5,
-      "name": "Black Dress",
-      "description": "A classic black dress for any occasion.",
-      "price": 59.99,
-      "quantity": 4,
-      "image": "/images/5.jpg"
-    },
-    {
-      "id": 6,
-      "name": "White Sneakers",
-      "description": "A pair of stylish white sneakers for casual wear.",
-      "price": 49.99,
-      "quantity": 12,
-      "image": "/images/6.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Gray Sweatpants",
-      "description": "Comfortable and stylish gray sweatpants for lounging.",
-      "price": 24.99,
-      "quantity": 6,
-      "image": "/images/7.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Brown Leather Boots",
-      "description": "A pair of rugged brown leather boots for outdoor adventures.",
-      "price": 129.99,
-      "quantity": 3,
-      "image": "/images/8.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Yellow Raincoat",
-      "description": "A bright yellow raincoat for rainy days.",
-      "price": 59.99,
-      "quantity": 7,
-      "image": "/images/9.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Green Skirt",
-      "description": "A flowy green skirt for a bohemian look.",
-      "price": 39.99,
-      "quantity": 9,
-      "image": "/images/10.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Striped Polo",
-      "description": "A classic striped polo shirt for a preppy look.",
-      "price": 29.99,
-      "quantity": 11,
-      "image": "/images/11.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Purple Sunglasses",
-      "description": "Stylish purple sunglasses to complete any outfit.",
-      "price": 19.99,
-      "quantity": 15,
-      "image": "/images/12.jpg"
+      "title": "Có thể ngăn con mèo của tôi cố gắng trốn thoát không? 4 mẹo đơn giản!",
+      "author": "cat_paw",
+      "date": "Ngày 1 tháng 4, năm 2022",
+      "content": "Một số người trong chúng ta biết rất rõ cảm giác như thế nào khi có một Houdini sống trong nhà của mình. Mặc dù đôi khi mèo ở bên ngoài rất nguy hiểm, nhưng đó là bản năng của chúng. Mỗi khi con mèo của bạn bắt gặp ai đó đi vào hoặc đi ra, chúng sẵn sàng lao đi càng nhanh càng tốt. Và mặc dù chúng tôi thực sự không thể để chúng thoát khỏi nanh vuốt của chúng tôi do những nguy hiểm đang chờ đợi, nhưng điều đó không có nghĩa là mèo của chúng tôi sai khi muốn khám phá. May mắn thay, có nhiều cách để kiềm chế mong muốn trốn thoát. Chúng ta sẽ thảo luận về một số ở đây và hy vọng rằng một trong những phương pháp sẽ hiệu quả với trường hợp của bạn. 1. Sửa con mèo của bạn: Một trong những lý do chính khiến con mèo của bạn có thể cố gắng trốn thoát là để tìm bạn tình. Mong muốn sinh sản rất mạnh mẽ nếu chúng chưa bị thiến hoặc thiến. Chúng biết rằng nếu trốn khỏi nhà, chúng có thể dễ dàng gặp phải những con mèo khác để thực hiện mệnh lệnh của mình. Nếu bạn sửa chữa con mèo của bạn, nó sẽ làm giảm các hormone này. Sau đó, nó sẽ làm giảm ham muốn đi ra ngoài vì mục đích giao phối của chúng. Họ có thể luôn tò mò về những hoạt động ngoài trời tuyệt vời, nhưng động lực của họ có thể giảm bớt. Ngoài việc khiến mèo ít muốn trốn thoát hơn một chút, việc triệt sản hoặc triệt sản mèo còn mang lại rất nhiều lợi ích sức khỏe khác. Khi mèo trưởng thành về giới tính, khoảng 6 tháng, chúng có thể bắt đầu thể hiện những hành vi mà bạn không muốn đối phó. Những điều này có thể bao gồm việc đi vào chu kỳ nhiệt, phun thuốc để đánh dấu lãnh thổ và thể hiện sự hung hăng hoặc bất cần ngày càng tăng. Ngoài ra, nó có thể làm tăng khả năng mắc các vấn đề sức khỏe liên quan đến sinh sản sau này trong cuộc đời, chẳng hạn như một số bệnh ung thư. Vì vậy, ngay cả khi con mèo của bạn không cố bay ra khỏi cửa mỗi khi bạn mở cửa, bạn nên cân nhắc triệt sản ngay khi bác sĩ thú y đề nghị. 2. Dẫn mèo đi chơi: Một số con mèo chỉ đơn giản là muốn ở ngoài trời. Vì vậy, để xoa dịu chúng và đồng thời giữ chúng an toàn, bạn có thể huấn luyện chúng đi trên dây xích. Điều đó có thể giống như một cơn ác mộng với bạn. Rốt cuộc, con mèo của bạn hầu như không làm những gì bạn muốn chúng làm hàng ngày. Có thể dạy chúng đi trên dây xích như một con chó không? Câu trả lời là có. Đặc biệt nếu bạn nuôi một chú mèo cực kỳ háo hức ra ngoài, đơn giản là chúng sẽ rất vui khi được trở thành một phần của thiên nhiên. Có thể mất một chút thời gian để họ làm quen với nó, nhưng thực hành sẽ tạo nên sự hoàn hảo. Mèo có thể dễ dàng tuột ra hoặc thoát khỏi vòng cổ. Cơ thể khập khiễng của chúng khá ngọ nguậy và nhiều dây nịt cho chó cũng không hoạt động. Đó là lý do tại sao chúng tôi khuyên bạn nên mua dây nịt được thiết kế dành riêng cho mèo. Bạn có thể tìm thấy dây nịt thiết kế cho mèo trên các trang web cụ thể như Chewy và Amazon. Bạn cũng có thể tìm thấy nhiều lựa chọn phù hợp tại các cửa hàng vật nuôi ở địa phương. Hãy mạnh dạn và hỏi ý kiến từ những người nuôi mèo khác. Với một chút kiên nhẫn, một vài lần mua hàng và thói quen tập thể dục, bạn và chú mèo của mình có thể cùng nhau đi dạo ngay lập tức. 3. Cung cấp Trải nghiệm Ngoài trời Kèm theo: Bạn có thể đã thấy trên các trang như Pinterest hoặc các trang truyền thông xã hội khác rằng mọi người tạo ban công cho mèo. Bạn có thể làm điều này trên cửa sổ hoặc khu vực hiên. Đó là một không gian khép kín nơi con mèo của bạn có thể ở bên ngoài mà không thực sự ở bên ngoài. Điều này chắc chắn có thể hạn chế mong muốn chạy ra khỏi cửa khi họ có thể ra ngoài trời dưới một hình thức nào đó. Một số người thậm chí còn xây dựng những đường hầm phức tạp để mèo của họ có thể khám phá không gian ở sân sau. Nếu bạn sống trong một căn hộ nhỏ hoặc một ngôi nhà ở thành phố khác, bạn có thể gặp nhiều khó khăn hơn để hoàn thành một thiết kế phức tạp. Nhưng trong hoàn cảnh thích hợp, nó có thể rất có lợi. 4. Đặt chúng ở nơi khác khi đến lúc rời đi: Nếu con mèo của bạn vẫn ngoan cố và muốn trốn thoát, ngay cả sau khi bạn cho chúng nhiều lựa chọn ngoài trời, bạn có thể cần phải thực hiện các biện pháp khác. Đánh lạc hướng con mèo của bạn hoặc đặt chúng vào một phòng khác hoặc đặt trong nhà khi bạn chuẩn bị rời đi. Lúc đầu, việc điều hướng có vẻ phức tạp, nhưng bạn có thể vượt qua chúng khá nhanh. Mọi người trong nhà phải luôn cảnh giác về tung tích của mèo. Nó có thể hoạt động cho những chuyến đi ngắn nếu bạn cần hạn chế quyền truy cập để bạn có thể lẻn ra ngoài. Đặt chúng trong một phòng đơn, tầng hầm đã hoàn thiện hoặc khu vực của ngôi nhà không có cửa ra vào trực tiếp. ",
+      "thumbnail": "/images/1.jpg",
+      "love": "34",
+      "comment": "5",
+      "view": "51"
     }
   ],
-  "comments": [
+  "user-post": [
     {
       "id": 1,
       "username": "john_smith",
-      "text": "Great product, I would definitely recommend it to others!",
+      "content": "Great product, I would definitely recommend it to others!",
       "rating": 5,
       "date": "2022-01-10"
-    },
-    {
-      "id": 2,
-      "username": "jane_doe",
-      "text": "I'm really impressed with the customer service, they went above and beyond to help me out!",
-      "rating": 4,
-      "date": "2022-02-15"
-    },
-    {
-      "id": 3,
-      "username": "sam_wilson",
-      "text": "The product arrived on time and was exactly what I was looking for.",
-      "rating": 4,
-      "date": "2022-03-01"
-    },
-    {
-      "id": 4,
-      "username": "emily_jones",
-      "text": "I had a problem with my order, but the customer service team was quick to resolve it.",
-      "rating": 3,
-      "date": "2022-04-10"
-    },
-    {
-      "id": 5,
-      "username": "mike_johnson",
-      "text": "I was disappointed with the quality of the product, it wasn't what I was expecting.",
-      "rating": 2,
-      "date": "2022-05-20"
-    },
-    {
-      "id": 6,
-      "username": "susan_lee",
-      "text": "The product is great, but it took a long time to arrive.",
-      "rating": 4,
-      "date": "2022-06-15"
-    },
-    {
-      "id": 7,
-      "username": "jacob_taylor",
-      "text": "I'm very happy with my purchase, the product is exactly what I needed.",
-      "rating": 5,
-      "date": "2022-07-01"
-    },
-    {
-      "id": 8,
-      "username": "olivia_smith",
-      "text": "The product was damaged during shipping, but the customer service team was helpful in getting me a replacement.",
-      "rating": 3,
-      "date": "2022-08-10"
-    },
-    {
-      "id": 9,
-      "username": "david_kim",
-      "text": "I haven't had a chance to use the product yet, but it looks great!",
-      "rating": 4,
-      "date": "2022-09-01"
-    },
-    {
-      "id": 10,
-      "username": "sophia_wang",
-      "text": "I'm satisfied with my purchase, but I wish the product came with more instructions.",
-      "rating": 3,
-      "date": "2022-10-15"
-    }
-  ],
-  "bai-viet": [
-    {
-      "id": 1,
-      "title": "10 Ways to Boost Your Productivity",
-      "author": "Sarah Johnson",
-      "content": "In today's fast-paced world, productivity is key to success. Here are 10 tips to help you boost your productivity and get more done in less time.",
-      "date": "2022-01-01"
-    },
-    {
-      "id": 2,
-      "title": "The Benefits of Meditation",
-      "author": "David Lee",
-      "content": "Meditation has been shown to have numerous benefits for both the mind and body. In this post, we explore some of the top benefits of meditation and how you can get started.",
-      "date": "2022-02-01"
-    },
-    {
-      "id": 3,
-      "title": "The Top 5 Destinations for Adventure Travel",
-      "author": "Alexa Chen",
-      "content": "Are you an adventure seeker? If so, check out our list of the top 5 destinations for adventure travel. From hiking in the mountains to exploring exotic locales, these destinations have it all!",
-      "date": "2022-03-01"
-    },
-    {
-      "id": 4,
-      "title": "The Importance of Eating a Healthy Diet",
-      "author": "John Smith",
-      "content": "Eating a healthy diet is essential for maintaining good health and preventing chronic diseases. In this post, we explore the importance of eating a healthy diet and provide tips for making healthy food choices.",
-      "date": "2022-04-01"
-    },
-    {
-      "id": 5,
-      "title": "How to Build Strong Relationships",
-      "author": "Emily Davis",
-      "content": "Strong relationships are key to happiness and success in life. In this post, we explore how to build strong relationships with family, friends, and coworkers, and why it's important to do so.",
-      "date": "2022-05-01"
     }
   ]
 }
