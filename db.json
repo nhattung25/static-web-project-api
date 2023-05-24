@@ -512,7 +512,7 @@
       "love": 27,
       "comment": 10,
       "view": 40,
-      "thumbnail": "/product-thumbnails/blog-thumbnail/slide-1.webp"
+      "thumbnail": "/product-thumbnails/new-blog/slide-1.webp"
     },
     {
       "id": 2,
@@ -521,7 +521,7 @@
       "love": 22,
       "comment": 11,
       "view": 40,
-      "thumbnail": "/product-thumbnails/blog-thumbnail/slide-2.webp"
+      "thumbnail": "/product-thumbnails/new-blog/slide-2.webp"
     },
     {
       "id": 3,
@@ -530,7 +530,7 @@
       "love": 42,
       "comment": 22,
       "view": 75,
-      "thumbnail": "/product-thumbnails/blog-thumbnail/slide-3.webp"
+      "thumbnail": "/product-thumbnails/new-blog/slide-3.webp"
     },
     {
       "id": 4,
@@ -539,7 +539,7 @@
       "love": 32,
       "comment": 31,
       "view": 85,
-      "thumbnail": "/product-thumbnails/blog-thumbnail/slide-4.webp"
+      "thumbnail": "/product-thumbnails/new-blog/slide-4.webp"
     }
   ],
   "categories": ["Mèo cưng", "Thức ăn cho mèo", "Phụ kiện cho mèo"],
