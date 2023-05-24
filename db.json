@@ -429,7 +429,7 @@
       "love": 27,
       "comment": 10,
       "view": 40,
-      "thumbnail": "/img/blog-thumbnail/1.webp"
+      "thumbnail": "/blog-thumbnail/1.webp"
     },
     {
       "id": 2,
@@ -438,7 +438,7 @@
       "love": 22,
       "comment": 11,
       "view": 40,
-      "thumbnail": "/img/blog-thumbnail/2.webp"
+      "thumbnail": "/blog-thumbnail/2.webp"
     },
     {
       "id": 3,
@@ -447,7 +447,7 @@
       "love": 42,
       "comment": 22,
       "view": 75,
-      "thumbnail": "/img/blog-thumbnail/3.webp"
+      "thumbnail": "/blog-thumbnail/3.webp"
     },
     {
       "id": 4,
@@ -456,7 +456,7 @@
       "love": 32,
       "comment": 31,
       "view": 85,
-      "thumbnail": "/img/blog-thumbnail/4.webp"
+      "thumbnail": "/blog-thumbnail/4.webp"
     },
     {
       "id": 5,
@@ -465,7 +465,7 @@
       "love": 12,
       "comment": 21,
       "view": 45,
-      "thumbnail": "/img/blog-thumbnail/5.webp"
+      "thumbnail": "/blog-thumbnail/5.webp"
     },
     {
       "id": 6,
@@ -474,7 +474,7 @@
       "love": 42,
       "comment": 31,
       "view": 105,
-      "thumbnail": "/img/blog-thumbnail/6.webp"
+      "thumbnail": "/blog-thumbnail/6.webp"
     },
     {
       "id": 7,
@@ -483,7 +483,7 @@
       "love": 12,
       "comment": 21,
       "view": 55,
-      "thumbnail": "/img/blog-thumbnail/7.webp"
+      "thumbnail": "/blog-thumbnail/7.webp"
     },
     {
       "id": 8,
@@ -492,7 +492,7 @@
       "love": 52,
       "comment": 11,
       "view": 65,
-      "thumbnail": "/img/blog-thumbnail/8.webp"
+      "thumbnail": "/blog-thumbnail/8.webp"
     },
     {
       "id": 9,
@@ -501,7 +501,7 @@
       "love": 48,
       "comment": 38,
       "view": 95,
-      "thumbnail": "/img/blog-thumbnail/9.webp"
+      "thumbnail": "/blog-thumbnail/9.webp"
     }
   ],
   "categories": ["Mèo cưng", "Thức ăn cho mèo", "Phụ kiện cho mèo"],
