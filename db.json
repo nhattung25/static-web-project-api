@@ -504,6 +504,44 @@
       "thumbnail": "/product-thumbnails/blog-thumbnail/9.webp"
     }
   ],
+  "new-blog": [
+    {
+      "id": 1,
+      "title": "Làm thế nào để mèo không làm bạn thức giấc?",
+      "description": "Thính giác của mèo tốt hơn nhiều so với con người. Tai người có thể nghe được âm thanh có tần số...",
+      "love": 27,
+      "comment": 10,
+      "view": 40,
+      "thumbnail": "/product-thumbnails/blog-thumbnail/new-blogs/slide-1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Tự tạo không gian vui chơi cho mèo",
+      "description": "Quá nhiều cha mẹ mèo hợp lý hóa việc nôn mửa không thường xuyên, hoặc thậm chí là mãn tính bằng những...",
+      "love": 22,
+      "comment": 11,
+      "view": 40,
+      "thumbnail": "/product-thumbnails/blog-thumbnail/new-blogs/slide-2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Làm thế nào để vận chuyển những chú mèo?",
+      "description": "Nhạy cảm với thực phẩm và dị ứng thực phẩm là do phản ứng với một thành phần cụ thể trong chế độ ăn uống...",
+      "love": 42,
+      "comment": 22,
+      "view": 75,
+      "thumbnail": "/product-thumbnails/blog-thumbnail/new-blogs/slide-3.webp"
+    },
+    {
+      "id": 4,
+      "title": "Tại sao mèo hay phát ra tiếng gừ gừ?",
+      "description": "FIP (Viêm phúc mạc truyền nhiễm ở mèo) do vi-rút corona gây ra. Dễ dàng lây truyền giữa các con mèo...",
+      "love": 32,
+      "comment": 31,
+      "view": 85,
+      "thumbnail": "/product-thumbnails/blog-thumbnail/new-blogs/slide-4.webp"
+    }
+  ],
   "categories": ["Mèo cưng", "Thức ăn cho mèo", "Phụ kiện cho mèo"],
   "items": [
     {
